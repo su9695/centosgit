@@ -14,4 +14,7 @@ master:
 every one has a dream
 what is your dream
 Creating a new branch is quick and simple
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
