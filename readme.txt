@@ -8,5 +8,7 @@ dev branch:
    what you see is normal
 dev2 branch:
 
-	day day up 
+	day day up
+every one has a dream
+what is your fucking dream ni 
 Creating a new branch is quick AND simple.
