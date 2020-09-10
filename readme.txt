@@ -8,10 +8,15 @@ dev branch:
    what you see is normal
 dev2 branch:
 
+master:
 	day day up 
 
 every one has a dream
 what is your dream
-Creating a new branch is quick and simple.
+Creating a new branch is quick and simple
 
-
+dev:
+	day day up
+every one has a dream
+what is your fucking dream ni 
+Creating a new branch is quick AND simple.
